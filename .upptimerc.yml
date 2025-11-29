@@ -10,7 +10,7 @@ sites:
     url: https://app.ideabloom.io
     type: globalping
   - name: IdeaBloom API
-    url: https://api.ideabloom.io/api/swagger.json
+    url: https://api.ideabloom.io/api/HealthFunction
     type: globalping
 
 status-website:
