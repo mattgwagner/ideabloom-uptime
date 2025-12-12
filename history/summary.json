@@ -4,18 +4,19 @@
     "url": "https://www.ideabloom.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.ideabloom.io.ico",
     "slug": "public-website",
-    "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.52%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.51%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
     "time": 220,
     "timeDay": 204,
     "timeWeek": 225,
     "timeMonth": 220,
     "timeYear": 220,
     "dailyMinutesDown": {
+      "2025-12-12": 0,
       "2025-11-29": 39,
       "2025-11-28": 53
     }
@@ -25,9 +26,9 @@
     "url": "https://app.ideabloom.io",
     "icon": "https://icons.duckduckgo.com/ip3/app.ideabloom.io.ico",
     "slug": "idea-bloom-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,14 +37,16 @@
     "timeWeek": 260,
     "timeMonth": 559,
     "timeYear": 559,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-12": 0
+    }
   },
   {
     "name": "IdeaBloom API",
     "url": "https://api.ideabloom.io/api/HealthFunction",
     "icon": "https://icons.duckduckgo.com/ip3/api.ideabloom.io.ico",
     "slug": "idea-bloom-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -54,6 +57,8 @@
     "timeWeek": 697,
     "timeMonth": 723,
     "timeYear": 723,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-12": 0
+    }
   }
 ]
